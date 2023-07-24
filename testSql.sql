@@ -1,0 +1,3 @@
+BEGIN
+pkg test
+END;
