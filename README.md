@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @logangru
-- 👀 I’m interested in Java, Micro Serives
+- 👀 I’m interested in Java, Micro Serices
 - 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
